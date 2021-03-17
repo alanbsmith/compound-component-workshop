@@ -33,8 +33,8 @@ This session is for folks who consume canvas-kit in their applications. While we
 
 ## Key Questions
 
-- ?
-- ?
+- How can I use Canvas Kit layout components to create consistent spacing and layout?
+- How can I use Canvas Kit typography components to create consistent type hierarchy?
 
 ## Objectives
 
