@@ -25,7 +25,7 @@ _Using Layout and Typography Components_
 
 ## Overview
 
-This session focuses on new styled components provided in Canvas Kit v5.
+This session focuses on using layout and typography components to build with Canvas Kit.
 
 ## Audience
 

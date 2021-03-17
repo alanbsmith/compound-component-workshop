@@ -26,7 +26,7 @@ _Building Compound Components_
 
 ## Overview
 
-This session focuses on new styled components provided in Canvas Kit v5.
+This session focuses on building custom models and compound components.
 
 ## Audience
 
