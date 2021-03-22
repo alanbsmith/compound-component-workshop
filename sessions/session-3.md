@@ -1,6 +1,6 @@
 # Compound Component Workshop | Session 3
 
-_Building Compound Components_
+_Building Custom Compound Components_
 
 ## Table of Contents
 
