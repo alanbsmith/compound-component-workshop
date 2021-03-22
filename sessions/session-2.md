@@ -46,10 +46,9 @@ Upon completing this session, participants should:
   - implement a basic compound component from Canvas Kit
 - have a functional understanding of models
   - understand the basics of model anatomy and usage
-  - implement
 - have a functional understanding of behavior hooks
-  - understand
-  - implement
+  - understand behavior hook basics and why they're useful
+  - implement a behavior hook in a compound component
 
 ## Outline
 
