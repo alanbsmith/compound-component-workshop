@@ -74,7 +74,6 @@ Upon completing this session, participants should:
   - Events
   - Callbacks
   - Guards
-  - Emitters - maybe cover this in Advanced Models?
 - Model Configuration
   - Configuring models with hooks
   - Hoisting models
@@ -86,9 +85,6 @@ Upon completing this session, participants should:
 - Composing models
   - Why compose models?
   - Implement a composed model
-- Using model emitters
-  - Why use emitters?
-  - Implement an emitter
 
 ### 2.4 Behavior Hooks (Advanced)
 
