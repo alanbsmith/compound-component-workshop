@@ -13,7 +13,7 @@ _Building Custom Compound Components_
   - [Outline](#outline)
     - [3.1 Building A Simple Model](#31-building-a-simple-model)
       - [Outline](#outline-1)
-    - [3.2 Adding Guards and Callbacks (and emitters?)](#32-adding-guards-and-callbacks-and-emitters)
+    - [3.2 Adding Guards and Callbacks](#32-adding-guards-and-callbacks)
     - [3.3 Building a Compound Component](#33-building-a-compound-component)
       - [Outline](#outline-2)
     - [3.4 Composing a Model (Advanced)](#34-composing-a-model-advanced)
@@ -56,7 +56,7 @@ Upon completing this session, participants should:
 - Create events
 - Create a model hook
 
-### 3.2 Adding Guards and Callbacks (and emitters?)
+### 3.2 Adding Guards and Callbacks
 
 - Create guards
 - Create callbacks
